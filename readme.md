@@ -75,7 +75,7 @@ Visit `http://localhost:8000` in your browser.
 ## 🔗 Docker Hub
 
 The latest image is published here:  
-👉 [Docker Hub – danatryon/assignment13](https://hub.docker.com/r/your‑repo/assignment13)
+👉 [Docker Hub – danatryon/assignment13](https://hub.docker.com/r/danatryon/assignment13)
 
 Pull it directly:
 
